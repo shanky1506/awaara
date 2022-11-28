@@ -1,0 +1,19 @@
+{
+  "name": "awaara",
+  "version": "1.0.0",
+  "description": "This is an application used by tourers to figure out beautiful places and things to look out for.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shanky1506/awaara.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shanky1506/awaara/issues"
+  },
+  "homepage": "https://github.com/shanky1506/awaara#readme"
+}
